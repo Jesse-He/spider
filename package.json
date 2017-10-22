@@ -1,0 +1,20 @@
+{
+  "name": "zhihuangjin",
+  "version": "1.0.0",
+  "description": "zhi huang jin pa chong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "au9999",
+    "node",
+    "js"
+  ],
+  "author": "jesse",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
